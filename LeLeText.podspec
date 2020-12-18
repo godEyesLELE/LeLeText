@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 	s.license = "MIT" 
 	s.author = { "tianle" => "603334504@qq.com" } 
 	s.platform = :ios,'11.0'  
-	s.source = { :git => "https://github.com/godEyesLELE/LeLeText", :tag => '1.0.0'} 
+	s.source = { :git => "https://github.com/godEyesLELE/LeLeText.git", :tag => '1.0.0'} 
 	s.source_files = "LeLeText", "LeLeText/**/*.{h,m,swift}"
 	s.requires_arc = true 
 	s.frameworks = "UIKit"  
