@@ -1,5 +1,5 @@
 
-Pod::Spec.new do |spec|
+Pod::Spec.new do |s|
 	s.name = "LeLeText"
 	s.version = "1.0" 
 	s.summary = "测试" 
